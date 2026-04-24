@@ -11,7 +11,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+##  About Me
 
 > **"매일 한 커밋, 꾸준히 쌓이는 개발자"** 를 목표로 달리는 중입니다 🏃
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 &nbsp;💻 **Language**&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -39,7 +39,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
